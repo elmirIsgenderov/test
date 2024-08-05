@@ -1,2 +1,2 @@
 # test
-<Mesq
+val intent=startActivity(this,MainActivity::class.java)
